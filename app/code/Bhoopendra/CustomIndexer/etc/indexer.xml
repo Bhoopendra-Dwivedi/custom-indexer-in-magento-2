@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Indexer/etc/indexer.xsd">
+    <indexer id="bhoopendra_custom_indexer" view_id="bhoopendra_custom_indexer" class="Bhoopendra\CustomIndexer\Model\Indexer\CustomIndexer">
+        <title translate="true">My First Indexer</title>
+        <description translate="true">My First custom indexer</description>
+    </indexer>
+</config>
